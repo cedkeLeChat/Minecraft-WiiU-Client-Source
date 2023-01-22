@@ -1,2 +1,2 @@
-# Minecraft-Wii-U-Client-Source-payload
+# Minecraft_WiiU_Client_Source
 payload + client 
